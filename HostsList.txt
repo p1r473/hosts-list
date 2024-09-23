@@ -178,7 +178,6 @@
 127.0.0.1 als-svc.nytimes.com
 127.0.0.1 a.mailmunch.co
 127.0.0.1 amazonadsi-a.akamaihd.net
-127.0.0.1 amazon.com
 127.0.0.1 amazoncustomerservice.d2.sc.omtrdc.net
 127.0.0.1 amazonwebservicesinc.tt.omtrdc.net
 127.0.0.1 a.mobify.com
