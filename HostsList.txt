@@ -988,7 +988,6 @@
 127.0.0.1 dns7d06c0a2-1d60-41f4-ad51-dceeb6a4594c-azurebatch-cloudservice.southcentralus.cloudapp.azure.com
 127.0.0.1 dnscda41ed6-2df8-444c-ad83-ad2013afd561-azurebatch-cloudservice.westus.cloudapp.azure.com
 127.0.0.1 dnse2ae02c0-bb25-4436-ad99-0e74bd282572-azurebatch-cloudservice.eastus.cloudapp.azure.com
-127.0.0.1 dns.msftncsi.com
 127.0.0.1 dntcl.qualaroo.com
 127.0.0.1 docdro.id
 127.0.0.1 dogtime.com
