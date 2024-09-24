@@ -1047,7 +1047,6 @@
 127.0.0.1 embed.playbuzz.com
 127.0.0.1 embed.spotify.com
 127.0.0.1 embed.tawk.to
-127.0.0.1 encrypted-tbn0.gstatic.com
 127.0.0.1 engage.commander1.com
 127.0.0.1 engagement-collector.mobify.net
 127.0.0.1 engage.wixapps.net
